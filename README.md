@@ -9,8 +9,9 @@ It is described in a number of blog posts:
   - [PatchBot #3](https://macintoshguy.wordpress.com/patchbot-3/)
   - [PatchBot #4](https://macintoshguy.wordpress.com/patchbot-4)
   
- You can find the components in two GitHub repositories
+ You can find the components in three GitHub repositories
  
   - [PatchBotProcessors](https://github.com/Honestpuck/PatchBotProcessors) Three custom processors for AutoPkg
   - [PatchBotTools](https://github.com/Honestpuck/PatchBotTools) The other components
+  - [PatchBotExamples](https://github.com/Honestpuck/PatchBotExamples) Three example recipes
  
