@@ -15,3 +15,6 @@ It is described in a number of blog posts:
   - [PatchBotTools](https://github.com/Honestpuck/PatchBotTools) The other components
   - [PatchBotExamples](https://github.com/Honestpuck/PatchBotExamples) Three example recipes
  
+If you would like help implementing this in your own environment feel free to reach out.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=honestpuck.patchbot.page.id)
