@@ -16,6 +16,8 @@ You no longer need to alter the `.pkg` recipe override. Details on running JPCIm
   - [PatchBotProcessors](https://github.com/Honestpuck/PatchBotProcessors) Three custom processors for AutoPkg
   - [PatchBotTools](https://github.com/Honestpuck/PatchBotTools) The other components
   - [PatchBotExamples](https://github.com/Honestpuck/PatchBotExamples) Three example recipes
+  
+ In this repo you can see, above, the presentation and notes from my JNUC2020 presentation about PatchBot.
  
 If you would like help implementing this in your own environment feel free to reach out.
 
