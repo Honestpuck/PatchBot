@@ -17,7 +17,7 @@ You no longer need to alter the `.pkg` recipe override. Details on running JPCIm
   - [PatchBotTools](https://github.com/Honestpuck/PatchBotTools) The other components
   - [PatchBotExamples](https://github.com/Honestpuck/PatchBotExamples) Three example recipes
   
- In this repo you can see, above, the presentation and notes from my JNUC2020 presentation about PatchBot.
+ In this repo you can see, above, the presentation and notes from my JNUC2020 presentation about PatchBot. You can see the presentation at https://www.youtube.com/watch?v=m4casr7nXIw
  
 If you would like help implementing this in your own environment feel free to reach out. The best place to do that is in the MacAdmins Slack channel #patchbot
 
